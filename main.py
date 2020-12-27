@@ -1,5 +1,13 @@
 #Tic Tac Toe game in python
 
+# Name : Akash Karmokar
+# ID : 161-115-043
+# Batch : CSE 38B
+
+# Name : Nayeem Azraf
+# ID : 161-115-054
+# Batch : CSE 38B
+
 
 
 board = [' ' for x in range(10)]
